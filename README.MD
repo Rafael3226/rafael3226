@@ -1,5 +1,3 @@
-Sure! Here's the updated version with the contact info in a one-column table:
-
 # Rafael Uribe
 
 ## 📞 Contact
