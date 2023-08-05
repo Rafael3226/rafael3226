@@ -18,7 +18,7 @@ Sure! Here's the updated version with the contact info in a one-column table:
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Rafael, an experienced Software Engineer with over 4 years of experience. I have a solid skill set that covers various programming languages and technologies like Java, C#, Python, JavaScript, and many databases.
+I'm Rafael, an experienced Software Engineer with over 4 years of experience. I have a solid skill set that covers various programming languages and technologies like Java, C#, Python, JavaScript, and many databases.
 
 I have a real passion for code quality and performance optimization. It's important to me that the applications I build are scalable, maintainable, and efficient. I want users to have the best experience possible.
 
