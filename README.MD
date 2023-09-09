@@ -14,6 +14,7 @@
 | 💾 SQL      |
 | 🌟 C#       |
 | 🐍 Python   |
+| 🐹 Go       |
 
 ### Frameworks & Libraries
 
@@ -35,37 +36,6 @@
 | 🔥 Firebase              |
 | ☁️ AWS                   |
 | 🔵 Azure                 |
-
-### Full-stack development
-
-| 🔧 Expertise          |
-| --------------------- |
-| 🎨 UX/UI              |
-| ☁️ Cloud Architecture |
-| 🔄 CI/CD              |
-
-### Software development methodologies
-
-| 📊 Methodology  |
-| --------------- |
-| 📋 Scrum        |
-| 📋 Kanban Board |
-
-### Code quality and performance optimization
-
-| 💡 Aspect       |
-| --------------- |
-| 📈 Scalable     |
-| 📄 Maintainable |
-| ⚙️ Efficient    |
-
-### Reliability and security
-
-| 🔒 Aspect                               |
-| --------------------------------------- |
-| 🔐 Implementing secure coding practices |
-| 🕵️ Vulnerability assessments            |
-| 🔐 Encryption techniques                |
 
 ### Tools and technologies
 
