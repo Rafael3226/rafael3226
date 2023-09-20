@@ -6,23 +6,13 @@
 
 ## 👨‍🔧 Skills
 
-### Programming languages
-
-| 🚀 Language |
-| ----------- |
-| ⚡ JS/TS    |
-| 💾 SQL      |
-| 🌟 C#       |
-| 🐍 Python   |
-| 🐹 Go       |
-
 ### Frameworks & Libraries
 
 | 📚 Framework/Library |
 | -------------------- |
-| ⚛️ ReactJS           |
-| ⏭️ Next.js           |
-| 🔄 Redux             |
+| ⚛️ React             |
+| ⏭️ Next              |
+| 🔄 GraphQL           |
 | 🚀 Express           |
 | 📚 .NET              |
 | 🍥 Flask             |
@@ -36,31 +26,5 @@
 | 🔥 Firebase              |
 | ☁️ AWS                   |
 | 🔵 Azure                 |
-
-### Tools and technologies
-
-| 🛠️ Tool/Technology  |
-| ------------------- |
-| 🔧 Jenkins          |
-| 📝 Jira             |
-| 🗃️ Bitbucket        |
-| 🗂️ Atlassian        |
-| 🛍️ SAP Hybris       |
-| 📈 Google Analytics |
-| 🌀 Redux-Saga       |
-| ➗ JQuery           |
-| 📊 Azure SQL Server |
-| 🆚 VS Code          |
-| ⚙️ Azure DevOps     |
-
-### Databases
-
-| 🗃️ Database   |
-| ------------- |
-| 🗄️ SQL Server |
-| 💾 MySQL      |
-| 🏛️ Oracle     |
-| 🗃️ PostgreSQL |
-| 🍃 MongoDB    |
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project!
