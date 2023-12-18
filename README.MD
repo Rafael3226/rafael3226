@@ -1,4 +1,4 @@
-# Hey there! 👋 Welcome to My GitHub Playground!
+# Hey there! 👋
 
 ## My Tech Toolbox 🧰
 - **Languages:** Node, Java, C#.
